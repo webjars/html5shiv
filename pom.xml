@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>html5shiv</artifactId>
-    <version>3.7.2-SNAPSHOT</version>
+    <version>3.7.2</version>
     <name>HTML5 Shiv</name>
     <description>WebJar for HTML5 Shiv</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/html5shiv</url>
         <connection>scm:git:https://github.com/webjars/html5shiv.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/html5shiv.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>html5shiv-3.7.2</tag>
     </scm>
     
     <properties>
